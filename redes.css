@@ -1,0 +1,59 @@
+.red{
+	position:  fixed;
+	top:  200px;
+	z-index: 100;
+	left: 0;
+
+}
+#facebook a{
+	background: #3b5998;
+	padding: 30px 45px;
+	color:  #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+}
+
+#facebook a:hover{
+	background: #0023FF;
+	padding: 50px 60px;
+}
+#youtube a{
+	background: #FF0000;
+	padding: 30px 45px;
+	color:  #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+
+}
+#youtube a:hover{
+	background: #D41919;
+	padding: 50px 60px;
+}
+#twitter a:hover{
+	background: #67CAFF;
+	padding: 50px 60px;
+}
+#twitter a{
+	background: #007ee5;
+	padding: 30px 45px;
+	color:  #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+
+}
+#correo a:hover{
+	background: #FF00F7;
+	padding: 50px 60px;
+}
+#correo a{
+	background: #ff0084;
+	padding: 30px 45px;
+	color:  #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+
+}
